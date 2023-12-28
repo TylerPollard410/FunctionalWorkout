@@ -10,7 +10,6 @@ BugReports: https://github.com/TylerPollard410/FunctionalWorkout/issues
 Imports: 
     config (>= 0.3.2),
     golem (>= 0.4.1),
-    pkgload,
     shiny (>= 1.8.0),
     shinyMobile (>= 1.0.0)
 Encoding: UTF-8
