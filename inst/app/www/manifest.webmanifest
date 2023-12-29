@@ -1,6 +1,6 @@
 {
-  "name": "My Progressive Web App",
-  "short_name": "My App",
+  "name": "My Workout Tracker App",
+  "short_name": "TP Workouts",
   "description": "What it does!",
   "lang": "en-US",
   "start_url": "https://tylerpollard410.shinyapps.io/FunctionalWorkout/",
