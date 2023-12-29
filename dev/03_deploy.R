@@ -51,7 +51,7 @@ rsconnect::deployApp(
     "data/",
     "NAMESPACE",
     "DESCRIPTION",
-    "app.R"
+    "inst/app.R"
   ),
   appId = rsconnect::deployments(".")$appID,
   lint = FALSE,
