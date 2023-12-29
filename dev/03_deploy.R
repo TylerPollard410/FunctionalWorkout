@@ -48,10 +48,10 @@ rsconnect::deployApp(
     # Add any additional files unique to your app here.
     "R/",
     "inst/",
-    "data/",
+    "data-raw/",
     "NAMESPACE",
     "DESCRIPTION",
-    "inst/app.R"
+    "inst/app/app.R"
   ),
   appId = rsconnect::deployments(".")$appID,
   lint = FALSE,
